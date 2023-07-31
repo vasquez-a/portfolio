@@ -1,0 +1,140 @@
+{
+  "Projects":[
+    {
+      "ID": 8,
+      "Name": "Mortality Database Interface",
+      "StartTime": "2023-01-01",
+      "EndTime": "2023-04-01",
+      "Blurb": "",
+      "Role": "",
+      "Skills": []
+    },
+    {
+      "ID": 7,
+      "Name": "AirBnb Marketing Analysis",
+      "StartTime": "2023-01-01",
+      "EndTime": "2023-04-01",
+      "Blurb": "",
+      "Role": "",
+      "Skills": ["R", "R Markdown", "Natural Language Processing", "Sentiment Analysis", "Data Analytics", "Marketing Analytics"]
+    },
+    {
+      "ID": 6,
+      "Name": "Geothermal Viability Research",
+      "StartTime": "2022-09-01",
+      "EndTime": "2022-12-01",
+      "Blurb": "Collaborated with a small team to research geothermal energy. Partnered with NASA, Class Project.",
+      "Role": "Data Vetter",
+      "Skills": ["Data Analytics"]
+    },
+    {
+      "ID": 5,
+      "Name": "Social Scorer",
+      "StartTime": "2022-01-01",
+      "EndTime": "2022-04-01",
+      "Blurb": "A class project utilizing machine learning ",
+      "Role": "Frontend Lead Developer and UI Designer",
+      "Skills": ["Figma", "JavaScript", "ReactJS", "NodeJS", "GitHub"]
+    },
+    {
+      "ID": 4,
+      "Name": "Vaccine Passports Research",
+      "StartTime": "2021-09-01",
+      "EndTime": "2021-12-01",
+      "Blurb": "Partnered with Deloitte to research vaccine passports and presented results in the form of a web platform.",
+      "Role": "Frontend Lead Developer and UI Designer",
+      "Skills": ["Adobe XD", "Application Prototyping", "JavaScript", "ReactJS", "NodeJS", "ExpressJS", "MongoDB", "GitHub", "Project Management", "Agile Methodology", "REST APIs"]
+    },
+    {
+      "ID": 3,
+      "Name": "Board Game Rental Site",
+      "StartTime": "2020-09-01",
+      "EndTime": "2020-12-01",
+      "Blurb": "Worked remotely with a team to develop a web-based platform for a local game rental service.",
+      "Role": "Frontend Developer",
+      "Skills": ["JavaScript", "NodeJS", "Angular TypeScript", "ExpressJS", "GitHub", "Project Management"]
+    },
+    {
+      "ID": 2,
+      "Name": "Maryland Budgetary Analysis",
+      "StartTime": "2020-09-01",
+      "EndTime": "2020-12-01",
+      "Blurb": "Analyzed the budget of the state of Maryland to create suggestions for the next year's budget.",
+      "Role": "Data Analyst",
+      "Skills": ["Tableau", "Microsoft SQL Server", "Data Analytics", "Management Foundations"]
+    },
+    {
+      "ID": 1,
+      "Name": "Binge",
+      "StartTime": "2020-01-01",
+      "EndTime": "2020-04-01",
+      "Blurb": "Partnered with Deloitte to research vaccine passports and presented results in the form of a web platform.",
+      "Role": "Frontend Developer and UI Designer",
+      "Skills": ["Adobe XD", "JavaScript", "ReactJS", "NodeJS", "ExpressJS", "MongoDB", "GitHub", "REST APIs"]
+    }
+  ],
+  "Work_Experience": [
+    {
+      "ID": 4,
+      "Name": "Schneider Electric",
+      "StartTime": "2022-07-01",
+      "EndTime": "2022-12-01",
+      "Location": "Andover, MA",
+      "Blurb": "Provided weekly remote computer science instruction to youth in grades 3-8 in Python and JavaScript.",
+      "Role": "UX/UI Intern",
+      "Skills": ["Figma", "Documentation", "Proprietary Software", "JavaScript"]
+    },
+    {
+      "ID": 3,
+      "Name": "Juni Learning",
+      "StartTime": "2021-01-01",
+      "EndTime": "2021-08-01",
+      "Location": "Remote",
+      "Blurb": "Provided weekly remote computer science instruction to youth in grades 3-8 in Python and JavaScript.",
+      "Role": "Computer Science Instructor",
+      "Skills": ["Teaching", "Python", "JavaScript", "Material UI", "CSS", "HTML", "Remote Work"]
+    },
+    {
+      "ID": 2,
+      "Name": "Northern Essex Community College",
+      "StartTime": "2019-07-01",
+      "EndTime": "2019-07-01",
+      "Location": "Haverhill, MA",
+      "Blurb": "Created and facilitated weeklong introductory Python course for underserved youth in the summer program grades 5-7.",
+      "Role": "Instructor for “College for Kids” summer program",
+      "Skills": ["Python", "Curriculum Design", "Teaching"]
+    },
+    {
+      "ID": 1,
+      "Name": "Rensselaer Polytechnic Institute",
+      "StartTime": "2018-09-01",
+      "EndTime": "2020-03-01",
+      "Location": "Troy, NY",
+      "Blurb": "Responsible for daily interoffice tasks such as triaging calls and messages, creating graphics, and assisting with office programming.",
+      "Role": "Work Study, Dean of Students Office Assistant",
+      "Skills": ["Canva", "Microsoft Office"]
+    }
+  ],
+  "Education": [
+    {
+      "ID": 2,
+      "School": "Rensselaer Polytechnic Institute",
+      "Major": "Information Technology",
+      "Level": "Master's of Science",
+      "StartDate": "2022-09-01",
+      "EndDate": "2023-05-01",
+      "GPA": 3.86,
+      "Relevant Courses": []
+    },
+    {
+      "ID": 1,
+      "School": "Rensselaer Polytechnic Institute",
+      "Major": "Information Technology and Web Science",
+      "Level": "Bachelor's of Science",
+      "StartDate": "2018-09-01",
+      "EndDate": "2022-05-01",
+      "GPA": 3.7,
+      "Relevant Courses": []
+    },
+  ]
+}
